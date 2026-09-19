@@ -1,2 +1,2 @@
-# comunidadse-cadastro
+# comunidade-cadastro
 sistema de cadastro 
